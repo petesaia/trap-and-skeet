@@ -1,4 +1,4 @@
-This is and experiment and still in development.
+This is an experiment and still in development. 
 
 ```bash
 $ trap-and-skeet
